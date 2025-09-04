@@ -1,0 +1,14 @@
+com\rishabhraj\airesumeanalyzer\repository\FeedbackRepository.class
+com\rishabhraj\airesumeanalyzer\service\UserDetailsServiceImpl.class
+com\rishabhraj\airesumeanalyzer\entity\Resume.class
+com\rishabhraj\airesumeanalyzer\security\JwtRequestFilter.class
+com\rishabhraj\airesumeanalyzer\AiResumeAnalyzerApplication.class
+com\rishabhraj\airesumeanalyzer\entity\Feedback.class
+com\rishabhraj\airesumeanalyzer\entity\User$Role.class
+com\rishabhraj\airesumeanalyzer\entity\User.class
+com\rishabhraj\airesumeanalyzer\security\JwtUtil.class
+com\rishabhraj\airesumeanalyzer\security\SecurityConfig.class
+com\rishabhraj\airesumeanalyzer\repository\UserRepository.class
+com\rishabhraj\airesumeanalyzer\controller\AuthController.class
+com\rishabhraj\airesumeanalyzer\controller\ResumeController.class
+com\rishabhraj\airesumeanalyzer\repository\ResumeRepository.class
